@@ -7,14 +7,14 @@ Real-time hand detection and tracking.
 Finger recognition to identify which fingers are up.
 Easy to use and extend for various hand gesture applications.
 
-Installation
+##### Installation
 
 To get started with HandTracker, you'll need to install the required dependencies. You can do this using pip:
 
 bash
 pip install cvzone opencv-python
 
-How It Works
+###### How It Works
 Video Capture: The script starts by capturing video from the default webcam.
 Hand Detection: It then initializes the hand detector using cvzone's HandDetector module.
 Hand Tracking: In each frame, it detects hands and draws landmarks on the detected hands.
