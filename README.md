@@ -36,6 +36,10 @@ elif fingers == [1, 1, 1, 1, 1]:
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
+
 Acknowledgments
+
 cvzone for the hand detection module.
+
 OpenCV for the computer vision functionalities.
