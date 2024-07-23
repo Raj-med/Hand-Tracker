@@ -1,4 +1,4 @@
-HandTracker
+# HandTracker
 
 HandTracker is a Python-based project that uses computer vision to detect and track hands in real-time using a webcam. This project leverages the power of cvzone and opencv-python libraries to achieve hand detection and finger recognition.
 
@@ -21,7 +21,7 @@ Hand Tracking: In each frame, it detects hands and draws landmarks on the detect
 Finger Recognition: The script prints the status of fingers (whether each finger is up or down) to the console.
 Display: The processed video is displayed in a window. Press 'q' to exit the program.
 
-# Detecting specific gestures
+## Detecting specific gestures
 Extending the Code - 
 Here is an example to extend the project for recognizing the "punch" gesture (all fingers down) and the "hi" gesture (all fingers up):
 
