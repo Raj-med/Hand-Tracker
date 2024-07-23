@@ -9,7 +9,9 @@ Features
 Real-time hand detection and tracking.
 Finger recognition to identify which fingers are up.
 Easy to use and extend for various hand gesture applications.
+
 Installation
+
 To get started with HandTracker, you'll need to install the required dependencies. You can do this using pip:
 
 bash
