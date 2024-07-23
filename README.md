@@ -24,9 +24,10 @@ Hand Tracking: In each frame, it detects hands and draws landmarks on the detect
 Finger Recognition: The script prints the status of fingers (whether each finger is up or down) to the console.
 Display: The processed video is displayed in a window. Press 'q' to exit the program.
 
+# Detecting specific gestures
 Extending the Code - 
 Here is an example to extend the project for recognizing the "punch" gesture (all fingers down) and the "hi" gesture (all fingers up):
-# Detecting specific gestures
+
 if fingers == [0, 0, 0, 0, 0]:
     cv2.putText(img, "Punch", (50, 50), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
 elif fingers == [1, 1, 1, 1, 1]:
