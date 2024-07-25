@@ -35,10 +35,6 @@ elif fingers == [1, 1, 1, 1, 1]:
     cv2.putText(img, "Hi", (50, 50), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
 
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
 
 #### Acknowledgments
 
