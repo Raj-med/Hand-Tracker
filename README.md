@@ -41,3 +41,5 @@ elif fingers == [1, 1, 1, 1, 1]:
 cvzone for the hand detection module.
 
 OpenCV for the computer vision functionalities.
+
+Usage: In order to use this dataset, please, cite Hand-Tracker by Rajabudeen Ahamed. M and link to this Github repo
